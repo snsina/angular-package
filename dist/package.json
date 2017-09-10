@@ -1,0 +1,15 @@
+{
+  "name": "snsina-angular-cards",
+  "version": "1.0.1",
+  "description": "material design cards",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/snsina/"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.17"
+  }
+}
