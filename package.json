@@ -1,8 +1,8 @@
 {
   "name": "snsina-angular-cards",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "material design cards",
-  "main": "index.js",
+  "main": "main.umd.js",
   "publishConfig": {
     "registry": "http://localhost:8081/repository/snsina/"
   },
@@ -20,6 +20,8 @@
     "zone.js": "^0.8.17"
   },
   "devDependencies": {
+    "@angular/core": "^4.4.0-RC.0",
+    "@angular/platform-browser": "^4.4.0-RC.0",
     "@angular/compiler": "^4.4.0-RC.0",
     "@angular/compiler-cli": "^4.4.0-RC.0",
     "@types/node": "^8.0.28",
